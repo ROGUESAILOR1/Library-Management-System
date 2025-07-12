@@ -1,0 +1,26 @@
+{
+    "456": {
+        "book_title": "Python for Dummies", 
+        "author": "Nil", 
+        "total_copies": 3, 
+        "available_copies": 2
+    }, 
+    "789": {
+        "book_title": "Python for Data Science", 
+        "author": "John Doe", 
+        "total_copies": 5, 
+        "available_copies": 5
+    }, 
+    "453": {
+        "book_title": "Python Guide", 
+        "author": "Nil", 
+        "total_copies": 3, 
+        "available_copies": 3
+    }, 
+    "782": {
+        "book_title": "Python for ML/AI", 
+        "author": "John Doe", 
+        "total_copies": 5, 
+        "available_copies": 5
+    }
+}
